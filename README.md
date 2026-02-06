@@ -73,7 +73,7 @@ Ce repository est le journal de bord de mon parcours d'ingénieur. Mon objectif 
 | 2. Langage C     | 2. Apprenez le fonctionnement des réseaux TCP/IP |
 | 3. Structures des Données Complexes        | 3. Strategic Leadership and Management |
 | 4. Algos de Tri    | 4. Adoptez Visual Studio comme environnement |
-| 5. Projet Pratique (Réalisation individuelle)              | 5. Apprenez à monter votre ordinateur (Hardware) |
+| 5. Projet Pratique (Réalisation individuelle)              | 5. Apprenez à monter votre ordinateur (Hardware) [Montez un PC] |
 
 ---
 
